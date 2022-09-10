@@ -1,0 +1,8 @@
+@charset "UTF-8";
+
+h1 {
+  font-size: 32px;
+  padding-left: 16px;
+  border-left: 8px solid pink;
+}
+
