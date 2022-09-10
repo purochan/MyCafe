@@ -1,19 +1,8 @@
 @charset "UTF-8";
 
 h1 {
-  font-size: 32px;
-  padding-left: 16px;
-  border-left: 8px solid pink;
-}
-
-h2 {
-  padding-bottom: 30px;
-  border-bottom: 8px dotted #ddd;
-}
-
-.container {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-around;
   font-size: 24px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid #ddd;
 }
+
